@@ -1,0 +1,2 @@
+# AIR-QUALITY-AND-PURITY-MONITORING-DEVICE-USING-ESP8266-MICROCONTROLLER-WITH-BLYNKIT-IOT-CLOUD
+An IoT-based Air Purity Monitoring System using ESP8266 and Blynk IoT Cloud. This project measures air quality using the MQ135 sensor and environmental data with the DHT11 sensor. The ESP8266 sends real-time data to the Blynk cloud platform, allowing remote monitoring through a mobile app. It can also trigger alerts or activate devices 
