@@ -34,6 +34,7 @@ DHT11 → Digital pin (D4 or D2)
 OLED (SPI/I2C) → SDA/SCL → D2/D1 or based on your model
 
 3.3V and GND to power the sensors
+![Screenshot 2025-06-11 173058](https://github.com/user-attachments/assets/45a1d286-14d5-4c81-9adf-cee0e61873dc)
 
 
 🔧 How It Works
