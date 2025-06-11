@@ -93,7 +93,6 @@ OLED (SPI/I2C) → SDA/SCL → D2/D1 or based on your model
 *Add auto air purifier trigger
 
 # 📸 Preview
-(Upload screenshots of Blynk dashboard and OLED display here)
 Example OLED Output:
 
 
