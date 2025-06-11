@@ -16,7 +16,7 @@ An IoT-based Air Purity Monitoring System using ESP8266 and Blynk IoT Cloud. Thi
 
 🔌 Low-cost and IoT-enabled Smart Device
 
-🧰 Components Used
+# 🧰 Components Used
 | Component                           | Description                              |
 | ----------------------------------- | ---------------------------------------- |
 | ESP8266 (NodeMCU)                   | Wi-Fi enabled microcontroller            |
@@ -37,7 +37,7 @@ OLED (SPI/I2C) → SDA/SCL → D2/D1 or based on your model
 ![Screenshot 2025-06-11 173058](https://github.com/user-attachments/assets/45a1d286-14d5-4c81-9adf-cee0e61873dc)
 
 
-🔧 How It Works
+# 🔧 How It Works
 *MQ135 detects air pollutants and sends analog data.
 
 *DHT11 captures temperature & humidity.
@@ -50,7 +50,7 @@ OLED (SPI/I2C) → SDA/SCL → D2/D1 or based on your model
 
 *The Blynk app/web dashboard lets users see real-time air quality remotely.
 
-📱** Blynk Configuration**
+# 📱** Blynk Configuration**
 
 *Sign up on Blynk IoT Cloud
 
@@ -68,7 +68,7 @@ OLED (SPI/I2C) → SDA/SCL → D2/D1 or based on your model
 
 *Replace the token in your Arduino code
 
-🧠 Code Overview
+# 🧠 Code Overview
 
 *Arduino code includes:
 
@@ -82,7 +82,7 @@ OLED (SPI/I2C) → SDA/SCL → D2/D1 or based on your model
 
 **Remember to install all required libraries via Arduino Library Manager.
 
-🚀 **Future Improvements**
+# 🚀 **Future Improvements**
 
 *Add PM2.5/PM10 dust sensors (e.g., PMS5003)
 
@@ -92,7 +92,7 @@ OLED (SPI/I2C) → SDA/SCL → D2/D1 or based on your model
 
 *Add auto air purifier trigger
 
-📸 Preview
+# 📸 Preview
 (Upload screenshots of Blynk dashboard and OLED display here)
 Example OLED Output:
 
@@ -108,4 +108,5 @@ Humidity: 65%
 *Smart Home Automation
 *IoT Learning Projects
 *Health & Safety Devices
+![ChatGPT Image Jun 11, 2025, 03_49_52 PM](https://github.com/user-attachments/assets/2bc7c76b-a1b0-41d5-b8ee-579b05a39ea4)
 
