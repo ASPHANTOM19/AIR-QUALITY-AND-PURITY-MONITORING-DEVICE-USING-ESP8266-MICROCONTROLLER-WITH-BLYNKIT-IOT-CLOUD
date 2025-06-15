@@ -94,6 +94,7 @@ OLED (SPI/I2C) → SDA/SCL → D2/D1 or based on your model
 
 # 📸 Preview
 Example OLED Output:
+![MQ135-OLED](https://github.com/user-attachments/assets/6335719d-c945-433c-8b35-ea254c4fd720)
 
 
 
